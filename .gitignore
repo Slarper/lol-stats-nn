@@ -1,0 +1,5 @@
+/target/
+/.ipynb_checkpoints
+/.vscode
+/raw_data
+/refined_data
